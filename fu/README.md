@@ -1,0 +1,2 @@
+* Datan är automatisk översatt med [OPUS](https://aclanthology.org/2020.eamt-1.61/). 
+* Datan är taggat med SpaCy modellen [’sv_core_news_lg’](https://spacy.io/models/sv). Den här taggaren använder UPOS taggar som skiljer sig lite grann från taggarna i labbarna. Se [dokumentationen](https://universaldependencies.org/u/pos/) för mer information.  
