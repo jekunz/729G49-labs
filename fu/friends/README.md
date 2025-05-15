@@ -1,4 +1,4 @@
-Dialoger från ”Friends”. Ni fär tre filer: 
+Dialoger från TV-serien ”Friends”. Ni fär tre filer: 
 * 'friends_en.txt', originaltexter på engelska. 
 * 'friends_sv.txt', den svenska maskinöversättningen. 
 * 'friends_sv.conllx', den taggade svenska maskinöversättningen. 
